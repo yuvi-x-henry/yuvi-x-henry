@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 @@ -1,103 +1,8 @@
  <p align="center">  
   <a href="">
-    <img alt="Yuvi" width="600" height="350" src="https://github.com/yuvi-x-henry/yuvi-x-henry/raw/refs/heads/main/VID_20250207_123130_125.mp4">
+    <img alt="Yuvi" width="600" height="350" src="https://raw.githubusercontent.com/yuvi-x-henry/yuvi-x-henry/main/VID_20250207_123130_125.mp4">
   </a>
 </p>
 
